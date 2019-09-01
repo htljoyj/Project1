@@ -1,0 +1,9 @@
+body {
+    background-color: #eeeeee;
+    color: #333333;
+    font-family: 'Arial', 'Verdana', sans-serif;
+}
+
+td {
+    border: 1px solid black;
+}
